@@ -42,26 +42,21 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:dwayne@dwaynemoore.me"
     name = "fas fa-envelope"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
-    name = "fab fa-github"
+    url = "https://twitter.com/DwayneEMoore/"
+    name = "fab fa-twitter"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "fab fa-twitter"
+    url = "https://www.linkedin.com/in/dwaynemoore/"
+    name = "fab fa-linkedin"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "fab fa-linkedin"
+    url = "https://www.facebook.com/dwaynem/"
+    name = "fab fa-facebook"
     weight = 4
-
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "fab fa-stack-overflow"
-    weight = 5

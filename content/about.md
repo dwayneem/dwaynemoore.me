@@ -24,3 +24,5 @@ I believe that Customer Support is the key to the success or failure of any tech
 - Software: Slack, Microsoft Office, Google Suite
 - Social Media: Facebook, Twitter, Instagram, Reddit, Buffer, HootSuite
 - CRM Software: Zendesk, HubSpot
+
+If you'd like to view or download my resume, you can find it [here](/Dwayne_Moore_Resume.pdf)

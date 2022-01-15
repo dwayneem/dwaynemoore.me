@@ -5,7 +5,7 @@ date: 2022-01-15T14:03:03-05:00
 
 ## Kidney Foundation of Canada – Peer Support
 
-As a Kidney Foundation of Canada Peer Support volunteer, I share my experience with kidney disease and how I balance family life, work, and social activities. Would you like to share your time and experience to help people with kidney disease? [Join us as a volunteer](https://kidney.ca/Get-Involved/Volunteer)
+As a Kidney Foundation of Canada Peer Support volunteer, I share my experience with kidney disease and how I balance family life, work, and social activities. Would you like to share your time and experience to help people with kidney disease? [Join us as a volunteer](https://kidney.ca/Get-Involved/Volunteer).
 
 ## UHN Foundation Impact Exchange
 

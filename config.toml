@@ -33,8 +33,8 @@ googleAnalytics = ""
     weight = 3
 
 [[menu.main]]
-    url = "/project/"
-    name = "Projects"
+    url = "/causes/"
+    name = "Causes"
     weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar.
@@ -60,3 +60,8 @@ googleAnalytics = ""
     url = "https://www.facebook.com/dwaynem/"
     name = "fab fa-facebook"
     weight = 4
+
+[[menu.icon]]
+    url = "https://www.instagram.com/DwayneEMoore/"
+    name = "fab fa-instagram"
+    weight = 5

@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2022-01-15T13:28:11-05:00
-draft: true
 ---
 
 ## I’m a Customer Support Professional seeking a position in tech.

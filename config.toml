@@ -1,4 +1,4 @@
-baseURL = "http://www.dwaynemoore.me/"
+baseURL = "https://www.dwaynemoore.me/"
 languageCode = "en-us"
 title = "I am Dwayne"
 theme = "minimal"

@@ -1,6 +1,6 @@
 baseURL = "https://www.dwaynemoore.site/"
 languageCode = "en-us"
-title = "I am Dwayne"
+title = "I am Dwayne."
 theme = "minimal"
 googleAnalytics = ""
 
@@ -64,3 +64,8 @@ googleAnalytics = ""
     url = "https://www.instagram.com/DwayneEMoore/"
     name = "fab fa-instagram"
     weight = 5
+
+[[menu.icon]]
+    url = "https://www.reddit.com/user/dwaynemoore/"
+    name = "fab fa-reddit"
+    weight = 6

@@ -2,7 +2,7 @@ baseURL = "https://www.dwaynemoore.site/"
 languageCode = "en-us"
 title = "I am Dwayne."
 theme = "minimal"
-googleAnalytics = ""
+googleAnalytics = "UA-163936789-2"
 
 [params]
     author = "Calin Tataru"

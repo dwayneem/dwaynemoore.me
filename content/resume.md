@@ -40,9 +40,9 @@ I am a dedicated, passionate, high-energy Customer Support Professional with 20+
 ## Work History
 
 **Outbound Customer Service Representative**      
-May 2021 to Present  
 Invoice Simple   
 Remote  
+May 2021 to Present  
 
 - Calling customers and informing them of change in payment processor
 - Instructing customers on actions they need to take to prepare for the change
@@ -50,9 +50,9 @@ Remote
    
 
 **Assistant Product Manager**    
-November 2007 to February 2015  
 IBM Canada  
 Toronto, Ontario  
+November 2007 to February 2015  
 
 - Supported sales and marketing organizations by answering clients' questions and concerns, creating marketing collateral, and presenting
 - Managed social media presence
@@ -62,9 +62,9 @@ Toronto, Ontario
    
 
 **Enablement Focal Point**    
-June 2005 to November 2007  
 IBM Canada  
 Toronto, Ontario  
+June 2005 to November 2007  
 
 - Focused on clients' needs as well as needs of client-facing colleagues
 - Educated development teams on clients' usage and issues with compilers, collaborating with them on resolutions.
@@ -73,9 +73,9 @@ Toronto, Ontario
    
 
 **Customer Support Team Lead**    
-February 2001 to June 2005  
 IBM Canada  
 Toronto, Ontario  
+February 2001 to June 2005  
 
 - Assisted sales and marketing teams with compiler-related opportunities.
 - Engaged clients to successfully use compiler products

@@ -24,4 +24,3 @@ I believe that Customer Support is the key to the success or failure of any tech
 - Software: Slack, Microsoft Office, Google Suite
 - Social Media: Facebook, Twitter, Instagram, Reddit, Buffer, HootSuite
 - CRM Software: Zendesk, HubSpot
-
